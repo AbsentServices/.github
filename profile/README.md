@@ -1,6 +1,7 @@
 ## Hi there 👋
 🙋‍♀️ Hello and Welcome to AbsentServices Github page. On here you will see all the code we have done & more.
-🌈 Wnat to help out? Message us on here.
+
+🌈 Want to help out? Message us on here.
 --------------------------------------------------------------------------------------------------------------
 
 
